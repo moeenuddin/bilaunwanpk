@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-I am interested in reading and writing software, books and scripts.
+Its about writing itneresting content.
 
