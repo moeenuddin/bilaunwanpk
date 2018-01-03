@@ -1,4 +1,12 @@
-<h1>Some heading</h1>
+<h1>Main Idea</h1>
+<h2>Sub Idea</h2>
+<img src="http://via.placeholder.com/600x70">
+
+
+
+<img src="http://via.placeholder.com/600x30">
+
+
 
 <div style="background-color:red;">
 "
@@ -11,9 +19,15 @@ dsadsadsa
 
 </div>
 
-    Left right Kylo is an open-source data lake management software platform. Kylo is an open source
-    enterprise-ready data lake management software platform for self-service data ingest and data 
-    preparation with integrated metadata management, governance, security and best practices inspired
+    Left right Kylo is an open-source data 
+    lake management software platform. 
+    Kylo is an open source
+    enterprise-ready data lake management 
+    software platform for self-service 
+    data ingest and data 
+    preparation with integrated metadata 
+    management, governance, security and 
+    best practices inspired
     by Think Big's 150+ big data ...
     
     ان پٹ ٹولز ویب پر کسی بھی جگہ آپ کی پسند کی زبان میں ٹائپ کرنا آسان بنا دیتا ہے۔
@@ -44,7 +58,6 @@ dsadsadsa
 
 </div>
 
-<img src="http://via.placeholder.com/350x150">
 
 <img src="http://via.placeholder.com/450x190">
 
