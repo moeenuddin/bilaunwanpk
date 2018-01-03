@@ -1,4 +1,4 @@
-<h1>Main Idea</h1>
+<h1 style="color:#FF5733;">Main Idea</h1>
 <h2>Sub Idea</h2>
 <h3>ان پٹ ٹولز ویب پر کسی بھی جگہ آپ کی پسند کی زبان میں ٹائپ کرنا آسان بنا دیتا ہے۔</h3>
 <img src="http://via.placeholder.com/600x70">
