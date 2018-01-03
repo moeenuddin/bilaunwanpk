@@ -8,6 +8,70 @@
 <h3>ان پٹ ٹولز ویب پر کسی بھی جگہ آپ کی پسند کی زبان میں ٹائپ کرنا آسان بنا دیتا ہے۔</h3>
 <img src="http://via.placeholder.com/600x70">
 
+<p style="background-color:#FFC300;">
+Left right Kylo is an open-source data 
+    lake management software platform. 
+    Kylo is an open source
+    enterprise-ready data lake management 
+    software platform for self-service 
+    data ingest and data 
+    preparation with integrated metadata 
+    management, governance, security and 
+    best practices inspired
+    by Think Big's 150+ big data ...
+    
+    
+</p>
+
+
+
+<p style="background-color:#900C3F;">
+Left right Kylo is an open-source data 
+    lake management software platform. 
+    Kylo is an open source
+    enterprise-ready data lake management 
+    software platform for self-service 
+    data ingest and data 
+    preparation with integrated metadata 
+    management, governance, security and 
+    best practices inspired
+    by Think Big's 150+ big data ...
+    
+    
+</p>
+
+
+
+<p style="background-color:#581845;">
+Left right Kylo is an open-source data 
+    lake management software platform. 
+    Kylo is an open source
+    enterprise-ready data lake management 
+    software platform for self-service 
+    data ingest and data 
+    preparation with integrated metadata 
+    management, governance, security and 
+    best practices inspired
+    by Think Big's 150+ big data ...
+    
+    
+</p>
+
+
+<p style="background-color:#C70039;">
+Left right Kylo is an open-source data 
+    lake management software platform. 
+    Kylo is an open source
+    enterprise-ready data lake management 
+    software platform for self-service 
+    data ingest and data 
+    preparation with integrated metadata 
+    management, governance, security and 
+    best practices inspired
+    by Think Big's 150+ big data ...
+    
+    
+</p>
 
 
 <img src="http://via.placeholder.com/600x30">
