@@ -1,6 +1,7 @@
 <h1>Some heading</h1>
 
-<div background-color="red">"
+<div style="background-color:red;">
+"
 Some qoutes"
 dsads
 dsadsadsa
