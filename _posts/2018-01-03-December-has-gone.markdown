@@ -12,6 +12,8 @@ A step into the new set of challenges and possibilities.
 
 ![December with Bilaunwan]({{ "/assets/December.jpg" | absolute_url }})
 
+
+
 Now today is 3rd January, <font color="#FF5733">a very happy new year</font> from <font color="#FFC300">Bilaunwan</font> 
 
      Ab kay baras kuch aisi tadbeer krtay hain
@@ -19,4 +21,6 @@ Now today is 3rd January, <font color="#FF5733">a very happy new year</font> fro
      BilaUnwan ka Aghaaz krtay hain, aur
      Mojzaay phir Khuda kay dekhtay hain.
      
+
+![Happy New Year from Bilaunwan]({{ "/assets/Happy-New-Year-Images-2018-HD-1-1.jpg" | absolute_url }})
  
