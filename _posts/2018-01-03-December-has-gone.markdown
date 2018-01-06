@@ -8,30 +8,15 @@
 <h1 style="color:#C70039;">December 2017 is no more with us</h1>
 
 We celebrate as December arrives at the end of the year. The end of a year long journey, and a start of new year.
-A step into the new set of chanllenges and possibilities.
+A step into the new set of challenges and possibilities.
 
 ![December with Bilaunwan]({{ "/assets/December.jpg" | absolute_url }})
 
-<h3>ان پٹ ٹولز ویب پر کسی بھی جگہ آپ کی پسند کی زبان میں ٹائپ کرنا آسان بنا دیتا ہے۔</h3>
-<img src="http://via.placeholder.com/600x70">
+Now today is 3rd January, <h3 style="color:#FF5733;">a very happy new year</h3> from <h1 style="color:#FFC300;">Bilaunwan</h1> 
 
-
-<img src="http://via.placeholder.com/600x30">
-
-
-
-    Left right Kylo is an open-source data 
-    lake management software platform. 
-    Kylo is an open source
-    enterprise-ready data lake management 
-    software platform for self-service 
-    data ingest and data 
-    preparation with integrated metadata 
-    management, governance, security and 
-    best practices inspired
-    by Think Big's 150+ big data ...
-    
-    
-    
-<img src="http://via.placeholder.com/650x140">
-
+     Ab kay baras kuch aisi tadbeer krtay hain
+     Khul kay Allah pe tawakul krtay hain
+     BilaUnwan ka Aghaaz krtay hain, aur
+     Mojzaay phir Khuda kay dekhtay hain.
+     
+ 
