@@ -12,7 +12,7 @@ A step into the new set of challenges and possibilities.
 
 ![December with Bilaunwan]({{ "/assets/December.jpg" | absolute_url }})
 
-Now today is 3rd January, <h3 style="color:#FF5733;">a very happy new year</h3> from <h1 style="color:#FFC300;">Bilaunwan</h1> 
+Now today is 3rd January, <h2 style="color:#FF5733;">a very happy new year</h2> from <h1 style="color:#FFC300;">Bilaunwan</h1> 
 
      Ab kay baras kuch aisi tadbeer krtay hain
      Khul kay Allah pe tawakul krtay hain
