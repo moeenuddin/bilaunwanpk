@@ -16,7 +16,10 @@ categories: insaan ghusay-ki-halat
 ![Anger should be managed, you can sit down,if you are standing, stand up if you are sitting in the state of anger]({{ "/assets/ghusay-kay-waqt-insaan-ka-sahi-pata-chalta-hai.jpg" | absolute_url }})
 
 
-<a href="https://moeenuddin.github.io/bilaunwanpk/marriage/wishful/2018/01/07/Shadi-heat-attack-sey-bachnay-ka-zarya-hai.html"><h1>Imran khan ki teesri shadi ki Afwa sachi hai?</h1></a>
+
+<h1> Mazeed Parhien... </h1>
+
+<a href="https://moeenuddin.github.io/bilaunwanpk/marriage/wishful/2018/01/07/Shadi-heat-attack-sey-bachnay-ka-zarya-hai.html">Imran khan ki teesri shadi ki Afwa sachi hai?</a>
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111866331-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-111866331-1'); </script>
