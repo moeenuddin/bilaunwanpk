@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Getting married for third time
@@ -14,6 +13,6 @@ categories: marriage wishful
  <h1>Shadi kar kay pachtain ya na kr kay pachtain... Faisla Ap ka hai</h1>
  
 
-![Imran Khan gets married third time. Is it a fake news?]({{ "/assets/Shaad Ka Ladu.jpg" | absolute_url }})
+![Imran Khan gets married third time. Is it a fake news?]({{ "/assets/Shaadi Ka Ladu.jpg" | absolute_url }})
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111866331-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-111866331-1'); </script>
