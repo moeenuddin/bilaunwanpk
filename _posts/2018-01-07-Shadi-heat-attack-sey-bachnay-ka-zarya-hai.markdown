@@ -16,10 +16,16 @@ categories: marriage wishful
 
  No cholesterol.
  
- <h1>Shadi kar kay pachtain ya na kr kay pachtain... Faisla Ap ka hai</h1>
- 
+![Imran Khan gets married third time. Is it a fake news?]({{ "/assets/imran-second-marriage.jpg" | absolute_url }})
 
+
+ <h2>Shadi kar kay pachtain ya na kr kay pachtain... Faisla Ap ka hai, so do you want to have shaadi kay ludoo ya phir...</h2>
+ 
 ![Imran Khan gets married third time. Is it a fake news?]({{ "/assets/Shadi Ka Ladoo.jpg" | absolute_url }})
+
+
+<a href=""><h1>Mujhay Kyun Nikala...</h1></a>
+
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111866331-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-111866331-1'); </script>
 
