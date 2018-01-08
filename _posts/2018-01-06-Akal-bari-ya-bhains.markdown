@@ -15,4 +15,4 @@ and associated ideas in neural models. The words like cognitive learning or proc
 
 <strong>Pakistan mein Ab bhi Akal aur bhains ka muqabala kia jata hai</strong>
 
-![Bhains Bari hai ya Akal???]({{ "/assets/akal-bari-ya-bhains.jpg" | absolute_url }})
+![Bhains Bari hai ya Akal???]({{ "/assets/aqal-bari-ya-bhains.jpg" | absolute_url }})
