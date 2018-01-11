@@ -7,6 +7,10 @@ categories: concepts
 
 Oh, my software you are getting old...
 
+<button>Subscribe for more Articles</button>
+
+<a><h1>Subscribe for more Articles</h1></a>
+
 Yes.
 
 	You can think of a time, when you should stop extending your software,
