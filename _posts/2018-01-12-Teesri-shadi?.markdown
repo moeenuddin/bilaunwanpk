@@ -6,10 +6,10 @@ categories: marriage-issues marriage-happiness
 ---
 
 
-<meta property="og:url"                content="https://moeenuddin.github.io/bilaunwanpk/marriage-issues/marriage-happiness/2018/01/12/Teesri-Shadi?.html" />
+<meta property="og:url"                content="https://moeenuddin.github.io/bilaunwanpk/marriage-issues/marriage-happiness/2018/01/12/Teesri-shadi.html" />
 <meta property="og:type"               content="article" />
 <meta property="og:title"              content="Getting married for third time?" />
-<meta property="og:description"        content="" />
+<meta property="og:description"        content="Imran Khan's marriage. The Third one." />
 <meta property="og:image"              content="/assets/Shadi Ka Ladoo.jpg" />
 
 Marriage is a blessing but it comes with problems.
