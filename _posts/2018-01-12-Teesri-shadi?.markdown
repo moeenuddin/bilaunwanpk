@@ -16,7 +16,7 @@ Marriage is a blessing but it comes with problems.
 It create issues for both men and women.
 Even then people do it. And yet we complain about marriage every day…
 
- No cholesterol.
+
  
 ![Imran Khan gets married third time. Is it a fake news?]({{ "/assets/imran-second-marriage.jpg" | absolute_url }})
 
@@ -40,6 +40,8 @@ I can tell, the person is very brave …. OR maybe you are a fool?
 Imran Khan getting married is may be a false news, but still he has the personality
 and charisma which makes other people to think about such an idea. I don’t know
 Imran Khan personally, may be he is also interested in some near future, if not now.
+
+
 What about you? Are you interested in getting married twice or third time?
 Or you are still single and have not thought about it? 
 
