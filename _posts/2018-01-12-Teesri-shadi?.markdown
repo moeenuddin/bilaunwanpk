@@ -20,8 +20,8 @@ Even then people do it. And yet we complain about marriage every day…
  
 ![Imran Khan gets married third time. Is it a fake news?]({{ "/assets/imran-second-marriage.jpg" | absolute_url }})
 
-     Agar ap ki shaadi nahi hoi hai tu phir ap ko sochna chaye keh
-     Akalay rehna behtar hai ya phir shaadi ka ladu chakna chayie?
+Agar ap ki shaadi nahi hoi hai tu phir ap ko sochna chaye keh
+Akalay rehna behtar hai ya phir shaadi ka ladu chakna chayie?
 
 ![Imran Khan gets married third time. Is it a fake news?]({{ "/assets/Shadi Ka Ladoo.jpg" | absolute_url }})
 
