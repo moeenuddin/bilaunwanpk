@@ -2,7 +2,7 @@
 layout: post
 title:  Tu kia krna hai
 date:   2018-02-01 01:36:19 +0500
-categories:  marriage-happiness
+categories:  discovery
 ---
 
 Thank you.
